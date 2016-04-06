@@ -1,0 +1,29 @@
+{
+  "siteName": {
+    "value": "pmangplusforasp"
+  },
+  "hostingPlanName": {
+    "value": "testing"
+  },
+  "siteLocation": {
+    "value": "East Asia"
+  },
+  "sku": {
+    "value": "Free"
+  },
+  "workerSize": {
+    "value": "0"
+  },
+  "siteMode": {
+    "value": "Limited"
+  },
+  "computeMode": {
+    "value": "0"
+  },
+  "subscriptionId": {
+    "value": "c79bace1-4bdb-4c50-966a-7e7a325e63b6"
+  },
+  "resourceGroup": {
+    "value": "pmangplus"
+  }
+}
