@@ -3,6 +3,7 @@
 
 ### TestCase List
 Function             |     REST API            |     Remarks
+-------------------- | ----------------------- | ---------------
 로그인 회원검증       | /members/@self          |
 결제 영수증 검증      | /market/v3/effectuate   | 
 GCM 발송             | /gcm/{appId}/publish    |
